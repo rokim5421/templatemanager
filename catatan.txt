@@ -1,0 +1,23 @@
+1. Image pake database V
+2. Solusi untuk section yang dobel V
+3. Ss multi V
+4. Label hide and show V
+5. Multi preview V
+6. Download json V
+
+7. Preview per template V
+8. Strategi untuk categori >> dikerjakan tim
+9. Preview per categori
+
+====
+
+ssh master_hrpswgycjq@45.76.187.228
+5CEKWdHw
+
+cd ~/applications/zjnhadpvac/public_html/
+rm -rfv *
+wget "https://gitlab.com/zahiradigital/elementor-template-manager/-/raw/master/remote.sh"
+chmod +x remote.sh
+./remote.sh
+
+
