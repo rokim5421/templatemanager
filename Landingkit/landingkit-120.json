@@ -1,0 +1,2298 @@
+{
+    "version": "0.4",
+    "title": "120 Furniture",
+    "type": "page",
+    "content": [
+        {
+            "id": "2f4a4395",
+            "settings": {
+                "height": "min-height",
+                "custom_height": {
+                    "unit": "vh",
+                    "size": 70
+                },
+                "background_background": "classic",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "id": 21426,
+                    "url": "https://raw.githubusercontent.com/muizzahabibi/elementor-zahira/main/image/landingpress.landingkit.co/wp-content/uploads/2020/07/bg-element-hero-furniture.png"
+                },
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "cover",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 1
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "20",
+                    "right": "0",
+                    "bottom": "110",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "gap": "wide",
+                "reverse_order_mobile": "reverse-mobile",
+                "background_overlay_position": "center center",
+                "background_color": "#45aee8",
+                "border_radius": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "85",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "235403aa",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "71bcc032",
+                            "settings": {
+                                "logo_image": {
+                                    "id": 21424,
+                                    "url": "https://raw.githubusercontent.com/muizzahabibi/elementor-zahira/main/image/landingpress.landingkit.co/wp-content/uploads/2020/07/logo-furnite.png"
+                                },
+                                "logo_link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": ""
+                                },
+                                "menus": [
+                                    {
+                                        "menu_label": "Keuntungan",
+                                        "menu_link": {
+                                            "url": "#keuntungan",
+                                            "is_external": "",
+                                            "nofollow": ""
+                                        },
+                                        "_id": "cd79d08"
+                                    },
+                                    {
+                                        "menu_label": "Produk",
+                                        "menu_link": {
+                                            "url": "#produk",
+                                            "is_external": "",
+                                            "nofollow": ""
+                                        },
+                                        "_id": "0c1be8a"
+                                    },
+                                    {
+                                        "menu_label": "Testimoni",
+                                        "menu_link": {
+                                            "url": "#testimoni",
+                                            "is_external": "",
+                                            "nofollow": ""
+                                        },
+                                        "_id": "d243ae2"
+                                    },
+                                    {
+                                        "menu_label": "FAQ",
+                                        "menu_link": {
+                                            "url": "#faq",
+                                            "is_external": "",
+                                            "nofollow": ""
+                                        },
+                                        "_id": "8fd734a"
+                                    }
+                                ],
+                                "menu_sticky_background": "#ffffff",
+                                "menus_text_color": "#ffffff",
+                                "menus_text_hover_color": "#f49e89",
+                                "menus_typography_typography": "custom",
+                                "menus_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 17
+                                },
+                                "menus_typography_text_transform": "capitalize",
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "-20",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "lp_navigation_menu",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4486f69c",
+                            "settings": {
+                                "color": "rgba(255,255,255,0.36)",
+                                "align": "center",
+                                "align_mobile": "center",
+                                "text": "Divider"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2ec8d6b2",
+                            "settings": {
+                                "space": {
+                                    "unit": "px",
+                                    "size": 30
+                                },
+                                "space_mobile": {
+                                    "unit": "px",
+                                    "size": 0
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "spacer",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "78d64cf",
+                            "settings": {
+                                "content_position": "middle",
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "2a1a82fd",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "margin_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "20",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "1ce7d58b",
+                                            "settings": {
+                                                "image": {
+                                                    "id": 21425,
+                                                    "url": "https://raw.githubusercontent.com/muizzahabibi/elementor-zahira/main/image/landingpress.landingkit.co/wp-content/uploads/2020/07/Hero-image-furniture.png"
+                                                },
+                                                "space_mobile": {
+                                                    "unit": "%",
+                                                    "size": 80
+                                                },
+                                                "image_size": "full",
+                                                "fb_value": "0"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "78645a7e",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3ffad82a",
+                                            "settings": {
+                                                "title": "NEW ARRIVAL",
+                                                "header_size": "p",
+                                                "align": "left",
+                                                "title_color": "#ffffff",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Muli",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 14
+                                                },
+                                                "typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.2
+                                                },
+                                                "typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 13
+                                                },
+                                                "typography_font_weight": "600",
+                                                "typography_text_transform": "uppercase",
+                                                "typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": 5.9
+                                                },
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "6460390f",
+                                            "settings": {
+                                                "title": "Furniture Modern Dan Minimalis Untuk Rumah Anda",
+                                                "title_color": "#ffffff",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Nunito Sans",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 52
+                                                },
+                                                "typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.2
+                                                },
+                                                "align_mobile": "center",
+                                                "typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 32
+                                                },
+                                                "typography_font_weight": "800"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "747b8e46",
+                                            "settings": {
+                                                "editor": "<p><!--(figmeta)eyJmaWxlS2V5IjoidktiaUFEQnpjT3J5MEJ0aTlOWmVoRSIsInBhc3RlSUQiOi0xLCJkYXRhVHlwZSI6InNjZW5lIn0K(/figmeta)--><!--(figma)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(/figma)-->Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut lacus, auctor pretium ac ultrices. Dui lacus dignissim tincidunt urna</p>",
+                                                "typography_typography": "custom",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 18
+                                                },
+                                                "align_mobile": "center",
+                                                "text_color": "rgba(255,255,255,0.7)"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "3df36a71",
+                                            "settings": {
+                                                "text": "Beli Sekarang",
+                                                "size": "md",
+                                                "typography_typography": "custom",
+                                                "typography_font_weight": "800",
+                                                "button_text_color": "#ffffff",
+                                                "background_color": "#054c73",
+                                                "button_background_hover_color": "#fca98a",
+                                                "border_radius": {
+                                                    "unit": "px",
+                                                    "top": "90",
+                                                    "right": "90",
+                                                    "bottom": "90",
+                                                    "left": "90",
+                                                    "isLinked": true
+                                                },
+                                                "align_mobile": "center",
+                                                "hover_animation": "grow",
+                                                "link": {
+                                                    "url": "#detail",
+                                                    "is_external": "",
+                                                    "nofollow": ""
+                                                },
+                                                "icon": "fa fa-long-arrow-right",
+                                                "icon_align": "right",
+                                                "icon_indent": {
+                                                    "unit": "px",
+                                                    "size": 15
+                                                },
+                                                "fb_value": "0"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "1fc28239",
+            "settings": {
+                "custom_height": {
+                    "unit": "vh",
+                    "size": 70
+                },
+                "background_background": "classic",
+                "background_color": "#ffffff",
+                "background_overlay_background": "classic",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "cover",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 1
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "0",
+                    "bottom": "60",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "gap": "wide",
+                "background_overlay_position": "bottom center",
+                "background_position": "top center",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "_element_id": "keuntungan"
+            },
+            "elements": [
+                {
+                    "id": "4766cb48",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "content_position": "center",
+                        "background_background": "classic"
+                    },
+                    "elements": [
+                        {
+                            "id": "5c5ae1e4",
+                            "settings": {
+                                "structure": "21",
+                                "content_position": "top"
+                            },
+                            "elements": [
+                                {
+                                    "id": "367a2ee2",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "margin_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "content_position": "top"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "690a4f24",
+                                            "settings": {
+                                                "title": "Keuntungan membeli di Furnite",
+                                                "title_color": "#474a50",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Nunito Sans",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 32
+                                                },
+                                                "typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.2
+                                                },
+                                                "align_mobile": "center",
+                                                "typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 28
+                                                },
+                                                "typography_font_weight": "900",
+                                                "typography_text_transform": "capitalize"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "4409f19b",
+                                    "settings": {
+                                        "_column_size": 66,
+                                        "_inline_size": null,
+                                        "content_position": "top"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "27cf2e78",
+                                            "settings": {
+                                                "editor": "<p><!--(figmeta)eyJmaWxlS2V5IjoiYWdqWXc2bXdIaFlkUnRGT2hUbHdiRSIsInBhc3RlSUQiOi0xLCJkYXRhVHlwZSI6InNjZW5lIn0K(/figmeta)--><!--(figma)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(/figma)-->Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra natoque egestas pellentesque adipiscing turpis dictumst vitae. Leo eget leo sed tincidunt vulputate. Lectus ornare dis non eu lorem pretium. Lacus, a id facilisis fringilla. Auctor nulla elit, amet, amet, sed sed vel maecenas. Et posuere posuere aliquet fusce. Velit sed faucibus congue id phasellus a eget.</p>",
+                                                "typography_typography": "custom",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 18
+                                                },
+                                                "align": "left",
+                                                "align_mobile": "center",
+                                                "typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 16
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "33d66479",
+                            "settings": {
+                                "space": {
+                                    "unit": "px",
+                                    "size": 30
+                                },
+                                "space_mobile": {
+                                    "unit": "px",
+                                    "size": 0
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "spacer",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "35b88b55",
+                            "settings": {
+                                "image": {
+                                    "id": 21427,
+                                    "url": "https://raw.githubusercontent.com/muizzahabibi/elementor-zahira/main/image/landingpress.landingkit.co/wp-content/uploads/2020/07/img-hp-furniture.png"
+                                },
+                                "space_mobile": {
+                                    "unit": "%",
+                                    "size": 100
+                                },
+                                "image_size": "full",
+                                "fb_value": "0"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "2d51fbab",
+            "settings": {
+                "gap": "wide",
+                "background_background": "classic",
+                "background_color": "#f2f5ff",
+                "background_overlay_background": "classic",
+                "background_overlay_position": "center center",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "cover",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 1
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "0",
+                    "bottom": "60",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "_element_id": "produk"
+            },
+            "elements": [
+                {
+                    "id": "4c32a450",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [
+                        {
+                            "id": "49b704fa",
+                            "settings": {
+                                "title": "Furnite Kualitas Terbaik",
+                                "title_color": "#474a50",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Nunito Sans",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 32
+                                },
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.2
+                                },
+                                "align_mobile": "center",
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 28
+                                },
+                                "typography_font_weight": "900",
+                                "align": "center",
+                                "typography_text_transform": "capitalize"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7d247b85",
+                            "settings": {
+                                "space": {
+                                    "unit": "px",
+                                    "size": 30
+                                },
+                                "space_mobile": {
+                                    "unit": "px",
+                                    "size": 15
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "spacer",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "efbdcae",
+                            "settings": {
+                                "gap": "extended",
+                                "structure": "40"
+                            },
+                            "elements": [
+                                {
+                                    "id": "348f481c",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "margin_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "30",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_inline_size_mobile": 50
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "5da20fd4",
+                                            "settings": {
+                                                "image": {
+                                                    "id": 21428,
+                                                    "url": "https://raw.githubusercontent.com/muizzahabibi/elementor-zahira/main/image/landingpress.landingkit.co/wp-content/uploads/2020/07/img-furntite-1.png"
+                                                },
+                                                "title_text": "Kursi Modern",
+                                                "description_text": "",
+                                                "image_space": {
+                                                    "unit": "px",
+                                                    "size": 0
+                                                },
+                                                "image_size": {
+                                                    "unit": "%",
+                                                    "size": 100
+                                                },
+                                                "title_color": "#474a50",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Nunito Sans",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 18
+                                                },
+                                                "image_size_mobile": {
+                                                    "unit": "%",
+                                                    "size": 100
+                                                },
+                                                "description_typography_typography": "custom",
+                                                "description_typography_text_decoration": "line-through",
+                                                "title_typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 16
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "-7",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image-box",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "26029b36",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "",
+                                                    "id": ""
+                                                },
+                                                "title_text": "Rp. 450.000",
+                                                "description_text": "Rp. 120.000",
+                                                "image_space": {
+                                                    "unit": "px",
+                                                    "size": ""
+                                                },
+                                                "image_size": {
+                                                    "unit": "%",
+                                                    "size": ""
+                                                },
+                                                "title_bottom_space": {
+                                                    "unit": "px",
+                                                    "size": 5
+                                                },
+                                                "title_color": "rgba(71,74,80,0.52)",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Muli",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 14
+                                                },
+                                                "title_typography_text_decoration": "line-through",
+                                                "description_color": "#474a50",
+                                                "description_typography_typography": "custom",
+                                                "description_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 18
+                                                },
+                                                "description_typography_font_weight": "800",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "title_typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 14
+                                                },
+                                                "description_typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 16
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "6e4a3a91",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "margin_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "30",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_inline_size_mobile": 50
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "346b7622",
+                                            "settings": {
+                                                "image": {
+                                                    "id": 21429,
+                                                    "url": "https://raw.githubusercontent.com/muizzahabibi/elementor-zahira/main/image/landingpress.landingkit.co/wp-content/uploads/2020/07/img-furntite-2.png"
+                                                },
+                                                "title_text": "Kursi Modern 2",
+                                                "description_text": "",
+                                                "image_space": {
+                                                    "unit": "px",
+                                                    "size": 0
+                                                },
+                                                "image_size": {
+                                                    "unit": "%",
+                                                    "size": 100
+                                                },
+                                                "title_color": "#474a50",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Nunito Sans",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 18
+                                                },
+                                                "image_size_mobile": {
+                                                    "unit": "%",
+                                                    "size": 100
+                                                },
+                                                "description_typography_typography": "custom",
+                                                "description_typography_text_decoration": "line-through",
+                                                "title_typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 16
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "-7",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image-box",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "57f2cc52",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "",
+                                                    "id": ""
+                                                },
+                                                "title_text": "Rp. 450.000",
+                                                "description_text": "Rp. 120.000",
+                                                "image_space": {
+                                                    "unit": "px",
+                                                    "size": ""
+                                                },
+                                                "image_size": {
+                                                    "unit": "%",
+                                                    "size": ""
+                                                },
+                                                "title_bottom_space": {
+                                                    "unit": "px",
+                                                    "size": 5
+                                                },
+                                                "title_color": "rgba(71,74,80,0.52)",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Muli",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 14
+                                                },
+                                                "title_typography_text_decoration": "line-through",
+                                                "description_color": "#474a50",
+                                                "description_typography_typography": "custom",
+                                                "description_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 18
+                                                },
+                                                "description_typography_font_weight": "800",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "title_typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 14
+                                                },
+                                                "description_typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 16
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "7b2d9276",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "margin_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_inline_size_mobile": 50
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "4b76050d",
+                                            "settings": {
+                                                "image": {
+                                                    "id": 21430,
+                                                    "url": "https://raw.githubusercontent.com/muizzahabibi/elementor-zahira/main/image/landingpress.landingkit.co/wp-content/uploads/2020/07/img-furntite-3.png"
+                                                },
+                                                "title_text": "Kursi Modern 3",
+                                                "description_text": "",
+                                                "image_space": {
+                                                    "unit": "px",
+                                                    "size": 0
+                                                },
+                                                "image_size": {
+                                                    "unit": "%",
+                                                    "size": 100
+                                                },
+                                                "title_color": "#474a50",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Nunito Sans",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 18
+                                                },
+                                                "image_size_mobile": {
+                                                    "unit": "%",
+                                                    "size": 100
+                                                },
+                                                "description_typography_typography": "custom",
+                                                "description_typography_text_decoration": "line-through",
+                                                "title_typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 16
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "-7",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image-box",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "55c195fe",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "",
+                                                    "id": ""
+                                                },
+                                                "title_text": "Rp. 450.000",
+                                                "description_text": "Rp. 120.000",
+                                                "image_space": {
+                                                    "unit": "px",
+                                                    "size": ""
+                                                },
+                                                "image_size": {
+                                                    "unit": "%",
+                                                    "size": ""
+                                                },
+                                                "title_bottom_space": {
+                                                    "unit": "px",
+                                                    "size": 5
+                                                },
+                                                "title_color": "rgba(71,74,80,0.52)",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Muli",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 14
+                                                },
+                                                "title_typography_text_decoration": "line-through",
+                                                "description_color": "#474a50",
+                                                "description_typography_typography": "custom",
+                                                "description_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 18
+                                                },
+                                                "description_typography_font_weight": "800",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "title_typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 14
+                                                },
+                                                "description_typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 16
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "7ca79ee8",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "margin_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_inline_size_mobile": 50
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "285ef2b0",
+                                            "settings": {
+                                                "image": {
+                                                    "id": 21431,
+                                                    "url": "https://raw.githubusercontent.com/muizzahabibi/elementor-zahira/main/image/landingpress.landingkit.co/wp-content/uploads/2020/07/img-furntite-4.png"
+                                                },
+                                                "title_text": "Kursi Modern 4",
+                                                "description_text": "",
+                                                "image_space": {
+                                                    "unit": "px",
+                                                    "size": 0
+                                                },
+                                                "image_size": {
+                                                    "unit": "%",
+                                                    "size": 100
+                                                },
+                                                "title_color": "#474a50",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Nunito Sans",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 18
+                                                },
+                                                "image_size_mobile": {
+                                                    "unit": "%",
+                                                    "size": 100
+                                                },
+                                                "description_typography_typography": "custom",
+                                                "description_typography_text_decoration": "line-through",
+                                                "title_typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 16
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "-7",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image-box",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "bf84a7b",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "",
+                                                    "id": ""
+                                                },
+                                                "title_text": "Rp. 450.000",
+                                                "description_text": "Rp. 120.000",
+                                                "image_space": {
+                                                    "unit": "px",
+                                                    "size": ""
+                                                },
+                                                "image_size": {
+                                                    "unit": "%",
+                                                    "size": ""
+                                                },
+                                                "title_bottom_space": {
+                                                    "unit": "px",
+                                                    "size": 5
+                                                },
+                                                "title_color": "rgba(71,74,80,0.52)",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Muli",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 14
+                                                },
+                                                "title_typography_text_decoration": "line-through",
+                                                "description_color": "#474a50",
+                                                "description_typography_typography": "custom",
+                                                "description_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 18
+                                                },
+                                                "description_typography_font_weight": "800",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "title_typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 14
+                                                },
+                                                "description_typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 16
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "4aeb7a43",
+            "settings": {
+                "custom_height": {
+                    "unit": "vh",
+                    "size": 70
+                },
+                "background_background": "classic",
+                "background_color": "#ffffff",
+                "background_overlay_background": "classic",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "cover",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 1
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "gap": "wide",
+                "background_overlay_position": "bottom center",
+                "background_position": "top right",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "_element_id": "testimoni",
+                "content_position": "top",
+                "structure": "30",
+                "background_overlay_image": {
+                    "id": 21432,
+                    "url": "https://raw.githubusercontent.com/muizzahabibi/elementor-zahira/main/image/landingpress.landingkit.co/wp-content/uploads/2020/07/kursi-bg-element.png"
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "20",
+                    "bottom": "60",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "1cf67e8c",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "content_position": "top",
+                        "background_background": "classic"
+                    },
+                    "elements": [
+                        {
+                            "id": "4fee69df",
+                            "settings": {
+                                "title": "Keuntungan membeli di Furnite",
+                                "title_color": "#474a50",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Nunito Sans",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 32
+                                },
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.2
+                                },
+                                "align_mobile": "center",
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 28
+                                },
+                                "typography_font_weight": "900",
+                                "typography_text_transform": "capitalize"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7df1a636",
+                            "settings": {
+                                "space": {
+                                    "unit": "px",
+                                    "size": 30
+                                },
+                                "space_mobile": {
+                                    "unit": "px",
+                                    "size": 15
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "spacer",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "5e467589",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "content_position": "top",
+                        "background_background": "classic",
+                        "background_color": "#f2f5ff",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "30",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "10",
+                            "bottom": "0",
+                            "left": "10",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "20",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "782f932e",
+                            "settings": {
+                                "icon": "fa fa-quote-left",
+                                "primary_color": "#45aee8"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4d67141",
+                            "settings": {
+                                "image": {
+                                    "url": "",
+                                    "id": ""
+                                },
+                                "title_text": "Bahannya bagus Sekali Recommended Banget",
+                                "description_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut lacus, auctor pretium ac ultrices. Dui lacus dignissim tincidunt urna, at enim tempo. Pellentesque amet\nLorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                                "image_space": {
+                                    "unit": "px",
+                                    "size": ""
+                                },
+                                "image_size": {
+                                    "unit": "%",
+                                    "size": ""
+                                },
+                                "title_bottom_space": {
+                                    "unit": "px",
+                                    "size": 10
+                                },
+                                "title_color": "#504947",
+                                "title_typography_typography": "custom",
+                                "title_typography_font_family": "Nunito Sans",
+                                "title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18
+                                },
+                                "_padding": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "title_typography_font_weight": "800",
+                                "description_typography_typography": "custom",
+                                "description_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-box",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1ad068d2",
+                            "settings": {
+                                "image": {
+                                    "id": "21283",
+                                    "url": "https://raw.githubusercontent.com/muizzahabibi/elementor-zahira/main/image/landingpress.landingkit.co/wp-content/uploads/2020/07/img-testimoni2.png"
+                                },
+                                "title_text": "Anisa Zahra",
+                                "description_text": "Founder Hijab milenial",
+                                "image_space": {
+                                    "unit": "px",
+                                    "size": 0
+                                },
+                                "image_size": {
+                                    "unit": "%",
+                                    "size": 19
+                                },
+                                "title_bottom_space": {
+                                    "unit": "px",
+                                    "size": 0
+                                },
+                                "title_color": "#504947",
+                                "title_typography_typography": "custom",
+                                "title_typography_font_family": "Montserrat",
+                                "title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "title_size": "p",
+                                "content_vertical_alignment": "middle",
+                                "description_typography_typography": "custom",
+                                "description_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14
+                                },
+                                "text_align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-box",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "4930e0c2",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "content_position": "top",
+                        "background_background": "classic",
+                        "background_color": "#f2f5ff",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "30",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "10",
+                            "bottom": "0",
+                            "left": "10",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "fc13303",
+                            "settings": {
+                                "icon": "fa fa-quote-left",
+                                "primary_color": "#45aee8"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7108b8a2",
+                            "settings": {
+                                "image": {
+                                    "url": "",
+                                    "id": ""
+                                },
+                                "title_text": "Bahannya bagus Sekali Recommended Banget",
+                                "description_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut lacus, auctor pretium ac ultrices. Dui lacus dignissim tincidunt urna, at enim tempo. Pellentesque amet\nLorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                                "image_space": {
+                                    "unit": "px",
+                                    "size": ""
+                                },
+                                "image_size": {
+                                    "unit": "%",
+                                    "size": ""
+                                },
+                                "title_bottom_space": {
+                                    "unit": "px",
+                                    "size": 10
+                                },
+                                "title_color": "#504947",
+                                "title_typography_typography": "custom",
+                                "title_typography_font_family": "Nunito Sans",
+                                "title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18
+                                },
+                                "_padding": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "title_typography_font_weight": "800"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-box",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "425bc807",
+                            "settings": {
+                                "image": {
+                                    "id": "21283",
+                                    "url": "https://raw.githubusercontent.com/muizzahabibi/elementor-zahira/main/image/landingpress.landingkit.co/wp-content/uploads/2020/07/img-testimoni2.png"
+                                },
+                                "title_text": "Anisa Zahra",
+                                "description_text": "Founder Hijab milenial",
+                                "image_space": {
+                                    "unit": "px",
+                                    "size": 0
+                                },
+                                "image_size": {
+                                    "unit": "%",
+                                    "size": 19
+                                },
+                                "title_bottom_space": {
+                                    "unit": "px",
+                                    "size": 0
+                                },
+                                "title_color": "#504947",
+                                "title_typography_typography": "custom",
+                                "title_typography_font_family": "Montserrat",
+                                "title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "title_size": "p",
+                                "content_vertical_alignment": "middle",
+                                "description_typography_typography": "custom",
+                                "description_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14
+                                },
+                                "text_align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-box",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "43def8a2",
+            "settings": {
+                "custom_height": {
+                    "unit": "vh",
+                    "size": 70
+                },
+                "background_background": "classic",
+                "background_color": "#f2f5ff",
+                "background_overlay_background": "classic",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "cover",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 1
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "0",
+                    "bottom": "60",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "gap": "wide",
+                "background_overlay_position": "top center",
+                "_element_id": "faq"
+            },
+            "elements": [
+                {
+                    "id": "4293c4ec",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "content_position": "center",
+                        "background_background": "classic"
+                    },
+                    "elements": [
+                        {
+                            "id": "6cf8de21",
+                            "settings": {
+                                "title": "Pertanyaan yang sering ditanyakan",
+                                "title_color": "#474a50",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Nunito Sans",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 32
+                                },
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.2
+                                },
+                                "align_mobile": "center",
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 28
+                                },
+                                "typography_font_weight": "900",
+                                "align": "center",
+                                "typography_text_transform": "capitalize"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2c2bb4bc",
+                            "settings": {
+                                "space": {
+                                    "unit": "px",
+                                    "size": 30
+                                },
+                                "space_mobile": {
+                                    "unit": "px",
+                                    "size": 15
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "spacer",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "b76ad9f",
+                            "settings": {
+                                "structure": "30"
+                            },
+                            "elements": [
+                                {
+                                    "id": "87fe8e",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "4b4f38da",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "",
+                                                    "id": ""
+                                                },
+                                                "title_text": "Ada garansi uang kembali ?",
+                                                "description_text": "I am item content. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                                                "image_space": {
+                                                    "unit": "px",
+                                                    "size": ""
+                                                },
+                                                "image_size": {
+                                                    "unit": "%",
+                                                    "size": ""
+                                                },
+                                                "title_bottom_space": {
+                                                    "unit": "px",
+                                                    "size": 15
+                                                },
+                                                "title_color": "#504947",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Montserrat",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16
+                                                },
+                                                "position": "left",
+                                                "title_size": "p",
+                                                "image_size_mobile": {
+                                                    "unit": "%",
+                                                    "size": 40
+                                                },
+                                                "text_align_mobile": "left",
+                                                "title_typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 18
+                                                },
+                                                "title_typography_font_weight": "600",
+                                                "_padding": {
+                                                    "unit": "em",
+                                                    "top": "2",
+                                                    "right": "2",
+                                                    "bottom": "2",
+                                                    "left": "2",
+                                                    "isLinked": false
+                                                },
+                                                "_background_background": "classic",
+                                                "_background_color": "#ffffff",
+                                                "_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image-box",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "4dd9120",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "",
+                                                    "id": ""
+                                                },
+                                                "title_text": "Apakah disini menyediakan juga aksesoris Rumah?",
+                                                "description_text": "I am item content. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                                                "image_space": {
+                                                    "unit": "px",
+                                                    "size": ""
+                                                },
+                                                "image_size": {
+                                                    "unit": "%",
+                                                    "size": ""
+                                                },
+                                                "title_bottom_space": {
+                                                    "unit": "px",
+                                                    "size": 15
+                                                },
+                                                "title_color": "#504947",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Montserrat",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16
+                                                },
+                                                "position": "left",
+                                                "title_size": "p",
+                                                "image_size_mobile": {
+                                                    "unit": "%",
+                                                    "size": 40
+                                                },
+                                                "text_align_mobile": "left",
+                                                "title_typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 18
+                                                },
+                                                "title_typography_font_weight": "600",
+                                                "_padding": {
+                                                    "unit": "em",
+                                                    "top": "2",
+                                                    "right": "2",
+                                                    "bottom": "2",
+                                                    "left": "2",
+                                                    "isLinked": false
+                                                },
+                                                "_background_background": "classic",
+                                                "_background_color": "#ffffff",
+                                                "_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "6516adf6",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "674d8f5c",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "",
+                                                    "id": ""
+                                                },
+                                                "title_text": "Apa itu Furnite?",
+                                                "description_text": "I am item content. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                                                "image_space": {
+                                                    "unit": "px",
+                                                    "size": ""
+                                                },
+                                                "image_size": {
+                                                    "unit": "%",
+                                                    "size": ""
+                                                },
+                                                "title_bottom_space": {
+                                                    "unit": "px",
+                                                    "size": 15
+                                                },
+                                                "title_color": "#504947",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Montserrat",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16
+                                                },
+                                                "position": "left",
+                                                "title_size": "p",
+                                                "image_size_mobile": {
+                                                    "unit": "%",
+                                                    "size": 40
+                                                },
+                                                "text_align_mobile": "left",
+                                                "title_typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 18
+                                                },
+                                                "title_typography_font_weight": "700",
+                                                "_padding": {
+                                                    "unit": "em",
+                                                    "top": "2",
+                                                    "right": "2",
+                                                    "bottom": "2",
+                                                    "left": "2",
+                                                    "isLinked": false
+                                                },
+                                                "_background_background": "classic",
+                                                "_background_color": "#ffffff",
+                                                "_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image-box",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "23c40ef",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "",
+                                                    "id": ""
+                                                },
+                                                "title_text": "Kemana saya bertanya jika ada kesulitan ?",
+                                                "description_text": "I am item content. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                                                "image_space": {
+                                                    "unit": "px",
+                                                    "size": ""
+                                                },
+                                                "image_size": {
+                                                    "unit": "%",
+                                                    "size": ""
+                                                },
+                                                "title_bottom_space": {
+                                                    "unit": "px",
+                                                    "size": 15
+                                                },
+                                                "title_color": "#504947",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Montserrat",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16
+                                                },
+                                                "position": "left",
+                                                "title_size": "p",
+                                                "image_size_mobile": {
+                                                    "unit": "%",
+                                                    "size": 40
+                                                },
+                                                "text_align_mobile": "left",
+                                                "title_typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 18
+                                                },
+                                                "title_typography_font_weight": "600",
+                                                "_padding": {
+                                                    "unit": "em",
+                                                    "top": "2",
+                                                    "right": "2",
+                                                    "bottom": "2",
+                                                    "left": "2",
+                                                    "isLinked": false
+                                                },
+                                                "_background_background": "classic",
+                                                "_background_color": "#ffffff",
+                                                "_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "32a52fef",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "58e232a4",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "",
+                                                    "id": ""
+                                                },
+                                                "title_text": "Ada garansi uang kembali ?",
+                                                "description_text": "I am item content. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                                                "image_space": {
+                                                    "unit": "px",
+                                                    "size": ""
+                                                },
+                                                "image_size": {
+                                                    "unit": "%",
+                                                    "size": ""
+                                                },
+                                                "title_bottom_space": {
+                                                    "unit": "px",
+                                                    "size": 15
+                                                },
+                                                "title_color": "#504947",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Montserrat",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16
+                                                },
+                                                "position": "left",
+                                                "title_size": "p",
+                                                "image_size_mobile": {
+                                                    "unit": "%",
+                                                    "size": 40
+                                                },
+                                                "text_align_mobile": "left",
+                                                "title_typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 18
+                                                },
+                                                "title_typography_font_weight": "600",
+                                                "_padding": {
+                                                    "unit": "em",
+                                                    "top": "2",
+                                                    "right": "2",
+                                                    "bottom": "2",
+                                                    "left": "2",
+                                                    "isLinked": false
+                                                },
+                                                "_background_background": "classic",
+                                                "_background_color": "#ffffff",
+                                                "_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image-box",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "1647f36f",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "",
+                                                    "id": ""
+                                                },
+                                                "title_text": "Apakah disini menyediakan juga aksesoris Rumah?",
+                                                "description_text": "I am item content. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                                                "image_space": {
+                                                    "unit": "px",
+                                                    "size": ""
+                                                },
+                                                "image_size": {
+                                                    "unit": "%",
+                                                    "size": ""
+                                                },
+                                                "title_bottom_space": {
+                                                    "unit": "px",
+                                                    "size": 15
+                                                },
+                                                "title_color": "#504947",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Montserrat",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16
+                                                },
+                                                "position": "left",
+                                                "title_size": "p",
+                                                "image_size_mobile": {
+                                                    "unit": "%",
+                                                    "size": 40
+                                                },
+                                                "text_align_mobile": "left",
+                                                "title_typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 18
+                                                },
+                                                "title_typography_font_weight": "600",
+                                                "_padding": {
+                                                    "unit": "em",
+                                                    "top": "2",
+                                                    "right": "2",
+                                                    "bottom": "2",
+                                                    "left": "2",
+                                                    "isLinked": false
+                                                },
+                                                "_background_background": "classic",
+                                                "_background_color": "#ffffff",
+                                                "_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "7e606330",
+            "settings": {
+                "custom_height": {
+                    "unit": "vh",
+                    "size": 70
+                },
+                "background_background": "classic",
+                "background_color": "#45aee8",
+                "background_overlay_background": "classic",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "cover",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 1
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "0",
+                    "bottom": "20",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "gap": "wide",
+                "background_overlay_position": "bottom center",
+                "content_position": "middle",
+                "reverse_order_mobile": "reverse-mobile",
+                "content_width": {
+                    "unit": "px",
+                    "size": 800
+                },
+                "background_overlay_image": {
+                    "id": 21434,
+                    "url": "https://raw.githubusercontent.com/muizzahabibi/elementor-zahira/main/image/landingpress.landingkit.co/wp-content/uploads/2020/07/bg-footer-furnite.png"
+                }
+            },
+            "elements": [
+                {
+                    "id": "7058de96",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "content_position": "center",
+                        "background_background": "classic"
+                    },
+                    "elements": [
+                        {
+                            "id": "3ef8c7be",
+                            "settings": {
+                                "image": {
+                                    "id": 21433,
+                                    "url": "https://raw.githubusercontent.com/muizzahabibi/elementor-zahira/main/image/landingpress.landingkit.co/wp-content/uploads/2020/07/logo-furnite2-1.png"
+                                },
+                                "image_size": "full",
+                                "space": {
+                                    "unit": "%",
+                                    "size": 15
+                                },
+                                "space_mobile": {
+                                    "unit": "%",
+                                    "size": 43
+                                },
+                                "fb_value": "0"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "235d1242",
+                            "settings": {
+                                "space": {
+                                    "unit": "px",
+                                    "size": 20
+                                },
+                                "space_mobile": {
+                                    "unit": "px",
+                                    "size": 15
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "spacer",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "324908bb",
+                            "settings": {
+                                "image": {
+                                    "id": "21335",
+                                    "url": "https://raw.githubusercontent.com/muizzahabibi/elementor-zahira/main/image/landingpress.landingkit.co/wp-content/uploads/2020/07/payment-1.png"
+                                },
+                                "align_mobile": "center",
+                                "fb_value": "0"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5328d49",
+                            "settings": {
+                                "editor": "<p><!--(figmeta)eyJmaWxlS2V5IjoiYWdqWXc2bXdIaFlkUnRGT2hUbHdiRSIsInBhc3RlSUQiOi0xLCJkYXRhVHlwZSI6InNjZW5lIn0K(/figmeta)--><!--(figma)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(/figma)-->Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra natoque egestas pellentesque adipiscing turpis dictumst vitae. Leo eget leo sed tincidunt vulputate. Lectus ornare dis non eu lorem pretium. Lacus, a id facilisis fringilla. Auctor nulla elit, amet, amet, sed sed vel maecenas. Et posuere posuere aliquet fusce elit sed faucibus congue</p>",
+                                "typography_typography": "custom",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14
+                                },
+                                "align": "center",
+                                "align_mobile": "center",
+                                "text_color": "#ffffff"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "70e8ffc8",
+                            "settings": {
+                                "color": "rgba(255,255,255,0.36)",
+                                "align": "center",
+                                "align_mobile": "center",
+                                "gap": {
+                                    "unit": "px",
+                                    "size": 35
+                                },
+                                "gap_mobile": {
+                                    "unit": "px",
+                                    "size": 35
+                                },
+                                "text": "Divider"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "73727e5c",
+                            "settings": {
+                                "social_icon_list": [
+                                    {
+                                        "social": "fa fa-instagram",
+                                        "_id": "b410ff1",
+                                        "link": {
+                                            "url": "",
+                                            "is_external": "true",
+                                            "nofollow": ""
+                                        },
+                                        "social_icon": {
+                                            "value": "fab fa-instagram",
+                                            "library": "fa-brands"
+                                        },
+                                        "item_icon_color": "default",
+                                        "item_icon_primary_color": "",
+                                        "item_icon_secondary_color": "",
+                                        "__fa4_migrated": {
+                                            "social_icon": true
+                                        }
+                                    },
+                                    {
+                                        "social": "fa fa-facebook",
+                                        "_id": "2d32f75",
+                                        "link": {
+                                            "url": "",
+                                            "is_external": "true",
+                                            "nofollow": ""
+                                        },
+                                        "social_icon": {
+                                            "value": "fab fa-facebook-f",
+                                            "library": "fa-brands"
+                                        },
+                                        "item_icon_color": "default",
+                                        "item_icon_primary_color": "",
+                                        "item_icon_secondary_color": "",
+                                        "__fa4_migrated": {
+                                            "social_icon": true
+                                        }
+                                    }
+                                ],
+                                "icon_color": "custom",
+                                "icon_primary_color": "#ffffff",
+                                "icon_secondary_color": "#45aee8",
+                                "icon_spacing": {
+                                    "unit": "px",
+                                    "size": 20
+                                },
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "900",
+                                    "right": "900",
+                                    "bottom": "900",
+                                    "left": "900",
+                                    "isLinked": true
+                                },
+                                "hover_primary_color": "#3b8cba",
+                                "hover_animation": "grow",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 20
+                                },
+                                "hover_secondary_color": "#ffffff"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "social-icons",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "35101d23",
+                            "settings": {
+                                "title": "\u00a9 2020 Furnite All Right Reserved",
+                                "header_size": "p",
+                                "align": "center",
+                                "title_color": "#ffffff",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Nunito Sans",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 15
+                                },
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 13
+                                },
+                                "typography_font_weight": "400",
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "background_background": "classic",
+        "background_color": "#ffffff",
+        "template": "elementor_canvas"
+    }
+}
