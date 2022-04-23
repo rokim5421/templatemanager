@@ -1,0 +1,1129 @@
+{
+    "version": "0.4",
+    "title": "040 Comingsoon 4",
+    "type": "page",
+    "content": [
+        {
+            "id": "6c04ceda",
+            "settings": {
+                "gap": "wide",
+                "structure": "20",
+                "padding": {
+                    "unit": "em",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "background_background": "classic",
+                "background_color": "#ffffff",
+                "background_overlay_background": "classic",
+                "background_overlay_position": "center center",
+                "background_overlay_attachment": "scroll",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "cover",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.2
+                },
+                "custom_height": {
+                    "unit": "vh",
+                    "size": 75
+                },
+                "shape_divider_bottom_color": "#fff3e8",
+                "shape_divider_bottom_width": {
+                    "unit": "%",
+                    "size": 148
+                },
+                "shape_divider_bottom_height": {
+                    "unit": "px",
+                    "size": 46
+                },
+                "height": "min-height",
+                "custom_height_tablet": {
+                    "unit": "vh",
+                    "size": 45
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "0",
+                    "bottom": "64",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "5a50fe2b",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "content_position": "center",
+                        "animation": "fadeInUp"
+                    },
+                    "elements": [
+                        {
+                            "id": "647a4d13",
+                            "settings": {
+                                "title": "BajuPria",
+                                "header_size": "p",
+                                "align": "left",
+                                "title_color": "#ffb667",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Poppins",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18
+                                },
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 14
+                                },
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.2
+                                },
+                                "typography_font_weight": "800",
+                                "typography_text_transform": "uppercase",
+                                "align_mobile": "center",
+                                "_margin": {
+                                    "unit": "%",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "8",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7a3075c7",
+                            "settings": {
+                                "title": "We are <br>\n<span style=\"color:#ffba36;\">coming soon!",
+                                "header_size": "p",
+                                "align": "left",
+                                "title_color": "#282a3c",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Nunito Sans",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 60
+                                },
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 48
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 52
+                                },
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.2
+                                },
+                                "typography_font_weight": "900",
+                                "typography_text_transform": "capitalize",
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7fbd1128",
+                            "settings": {
+                                "editor": "<p><!--(figmeta)eyJmaWxlS2V5IjoiVU84QjZ2S2FtUDNFajFUUHd3OEpOSWlWIiwicGFzdGVJRCI6LTEsImRhdGFUeXBlIjoic2NlbmUifQo=(/figmeta)--><!--(figma)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(/figma)-->Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus orci lacus, suscipit non dapibus ac, luctus vel tellus.\u00a0</p>",
+                                "text_color": "#282a3c",
+                                "typography_typography": "custom",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18
+                                },
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.5
+                                },
+                                "align_mobile": "center",
+                                "_margin": {
+                                    "unit": "%",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "5",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "f0099ba",
+                            "settings": {
+                                "structure": "20",
+                                "gap": "wide"
+                            },
+                            "elements": [
+                                {
+                                    "id": "1c679e49",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "margin_mobile": {
+                                            "unit": "%",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_inline_size_mobile": 50
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "de5b4a0",
+                                            "settings": {
+                                                "icon_list": [
+                                                    {
+                                                        "text": "Pengiriman Cepat",
+                                                        "icon": "fa fa-check-circle",
+                                                        "_id": "3be7cd2",
+                                                        "link": {
+                                                            "url": "",
+                                                            "is_external": "",
+                                                            "nofollow": ""
+                                                        },
+                                                        "selected_icon": {
+                                                            "value": "fas fa-check",
+                                                            "library": "fa-solid"
+                                                        }
+                                                    },
+                                                    {
+                                                        "text": "Harga Sesuai Dompet",
+                                                        "icon": "fa fa-check-circle",
+                                                        "_id": "6945704",
+                                                        "link": {
+                                                            "url": "",
+                                                            "is_external": "",
+                                                            "nofollow": ""
+                                                        },
+                                                        "selected_icon": {
+                                                            "value": "fas fa-check",
+                                                            "library": "fa-solid"
+                                                        }
+                                                    },
+                                                    {
+                                                        "text": "Mudah Pesan, Tidak Ribet",
+                                                        "icon": "fa fa-check-circle",
+                                                        "_id": "6749a4a",
+                                                        "link": {
+                                                            "url": "",
+                                                            "is_external": "",
+                                                            "nofollow": ""
+                                                        },
+                                                        "selected_icon": {
+                                                            "value": "fas fa-check",
+                                                            "library": "fa-solid"
+                                                        }
+                                                    }
+                                                ],
+                                                "space_between": {
+                                                    "unit": "px",
+                                                    "size": 25
+                                                },
+                                                "icon_color": "#78c950",
+                                                "icon_size": {
+                                                    "unit": "px",
+                                                    "size": 25
+                                                },
+                                                "text_color": "#282a3c",
+                                                "text_indent": {
+                                                    "unit": "px",
+                                                    "size": 15
+                                                },
+                                                "icon_typography_typography": "custom",
+                                                "icon_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-list",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "75b4c7d4",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "_inline_size_mobile": 50
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "b202857",
+                                            "settings": {
+                                                "icon_list": [
+                                                    {
+                                                        "text": "Pengiriman Cepat",
+                                                        "icon": "fa fa-check-circle",
+                                                        "_id": "af4ee15",
+                                                        "link": {
+                                                            "url": "",
+                                                            "is_external": "",
+                                                            "nofollow": ""
+                                                        },
+                                                        "selected_icon": {
+                                                            "value": "fas fa-check",
+                                                            "library": "fa-solid"
+                                                        }
+                                                    },
+                                                    {
+                                                        "text": "Harga Sesuai Dompet",
+                                                        "icon": "fa fa-check-circle",
+                                                        "_id": "f9c72cf",
+                                                        "link": {
+                                                            "url": "",
+                                                            "is_external": "",
+                                                            "nofollow": ""
+                                                        },
+                                                        "selected_icon": {
+                                                            "value": "fas fa-check",
+                                                            "library": "fa-solid"
+                                                        }
+                                                    },
+                                                    {
+                                                        "text": "Mudah Pesan, Tidak Ribet",
+                                                        "icon": "fa fa-check-circle",
+                                                        "_id": "b9b9495",
+                                                        "link": {
+                                                            "url": "",
+                                                            "is_external": "",
+                                                            "nofollow": ""
+                                                        },
+                                                        "selected_icon": {
+                                                            "value": "fas fa-check",
+                                                            "library": "fa-solid"
+                                                        }
+                                                    }
+                                                ],
+                                                "space_between": {
+                                                    "unit": "px",
+                                                    "size": 25
+                                                },
+                                                "icon_color": "#78c950",
+                                                "icon_size": {
+                                                    "unit": "px",
+                                                    "size": 25
+                                                },
+                                                "text_color": "#282a3c",
+                                                "text_indent": {
+                                                    "unit": "px",
+                                                    "size": 15
+                                                },
+                                                "icon_typography_typography": "custom",
+                                                "icon_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-list",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "6e323437",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "margin_mobile": {
+                            "unit": "%",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "animation": "fadeInUp"
+                    },
+                    "elements": [
+                        {
+                            "id": "59142f01",
+                            "settings": {
+                                "image": {
+                                    "url": "https://raw.githubusercontent.com/muizzahabibi/elementor-zahira/main/image/landingpress.landingkit.co/wp-content/uploads/2019/08/KaosPria-1.png",
+                                    "id": 12379
+                                },
+                                "align_tablet": "center",
+                                "space_mobile": {
+                                    "unit": "%",
+                                    "size": 60
+                                },
+                                "align_mobile": "center",
+                                "space_tablet": {
+                                    "unit": "%",
+                                    "size": 75
+                                },
+                                "_margin_mobile": {
+                                    "unit": "%",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "fb_value": "0"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "32bc2a08",
+            "settings": {
+                "gap": "wide",
+                "padding": {
+                    "unit": "px",
+                    "top": "32",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                },
+                "background_background": "classic",
+                "margin": {
+                    "unit": "%",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "3",
+                    "right": "1",
+                    "bottom": "3",
+                    "left": "1",
+                    "isLinked": false
+                },
+                "background_color": "#c8dff5",
+                "structure": "20"
+            },
+            "elements": [
+                {
+                    "id": "7ba92788",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "content_position": "center",
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "animation": "fadeInUp",
+                        "background_background": "classic",
+                        "padding": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "5af210c6",
+                            "settings": {
+                                "editor": "<p><strong>Akhirnya!</strong> Saya sedang menyiapkan <strong>produk yang berkualitas</strong> bagi anda</p>",
+                                "text_color": "#282a3c",
+                                "typography_typography": "custom",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 20
+                                },
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 18
+                                },
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.5
+                                },
+                                "align_mobile": "center",
+                                "align": "left",
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 24
+                                },
+                                "typography_text_transform": "capitalize",
+                                "_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "17f4f691",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "content_position": "center",
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "animation": "fadeInUp",
+                        "background_background": "classic",
+                        "padding": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "36053d53",
+                            "settings": {
+                                "intro": "menuju Grand Launch Dalam:",
+                                "month": "12",
+                                "intro_color": "#282a3c",
+                                "intro_typography_typography": "custom",
+                                "intro_typography_font_family": "Nunito Sans",
+                                "intro_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 20
+                                },
+                                "intro_typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "intro_typography_font_weight": "800",
+                                "intro_typography_text_transform": "capitalize",
+                                "_margin": {
+                                    "unit": "%",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "_padding": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "year": "2020"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "countdown_simple",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "18dbe1e3",
+            "settings": {
+                "gap": "wide",
+                "padding": {
+                    "unit": "px",
+                    "top": "64",
+                    "right": "0",
+                    "bottom": "64",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "em",
+                    "top": "1",
+                    "right": "2",
+                    "bottom": "3",
+                    "left": "2",
+                    "isLinked": false
+                },
+                "background_background": "classic",
+                "content_width": {
+                    "unit": "px",
+                    "size": 500
+                },
+                "margin": {
+                    "unit": "%",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "0",
+                    "right": "1",
+                    "bottom": "3",
+                    "left": "1",
+                    "isLinked": false
+                },
+                "background_color": "#c8dff5"
+            },
+            "elements": [
+                {
+                    "id": "25fe78d",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "content_position": "center",
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        },
+                        "animation": "fadeInUp",
+                        "background_background": "classic",
+                        "background_color": "#ffffff",
+                        "padding": {
+                            "unit": "em",
+                            "top": "3",
+                            "right": "3",
+                            "bottom": "3",
+                            "left": "3",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "12a56d2e",
+                            "settings": {
+                                "title": "Join Waitinglist BajuPria",
+                                "header_size": "p",
+                                "align": "center",
+                                "title_color": "#282a3c",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Nunito Sans",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 26
+                                },
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 26
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.2
+                                },
+                                "typography_font_weight": "800",
+                                "typography_text_transform": "capitalize"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4e5c7b52",
+                            "settings": {
+                                "editor": "<p>Cukup Anda Masukkan Nama Lengkap dan Email Aktif Anda dibawah ini:</p>",
+                                "text_color": "#282a3c",
+                                "typography_typography": "custom",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.5
+                                },
+                                "align_mobile": "center",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5ee2aefd",
+                            "settings": {
+                                "section_optin": "",
+                                "optin": "<form method='post' action=''>\n<div>\n<input type='text' id='Masukan Email' name='Masukan Email' value='' placeholder=\"Masukan Email\">\n</div>\n<div>\n<input type='text' id='Nama Kamu' name='Nama Kamu' value='' placeholder=\"Nama Kamu\">\n</div>\n<div>\n<input type='submit' value='Daftarkan Saya'>\n</div>\n</form>\n",
+                                "optin_display": "fullwidth",
+                                "button_width": "input",
+                                "section_label_style": "",
+                                "label_text_color": "#ffffff",
+                                "label_typography_line_height_tablet": {
+                                    "unit": "em",
+                                    "size": ""
+                                },
+                                "label_typography_line_height_mobile": {
+                                    "unit": "em",
+                                    "size": ""
+                                },
+                                "section_input_style": "",
+                                "input_typography_line_height_tablet": {
+                                    "unit": "em",
+                                    "size": ""
+                                },
+                                "input_typography_line_height_mobile": {
+                                    "unit": "em",
+                                    "size": ""
+                                },
+                                "input_background_color": "#ffffff",
+                                "input_border_border": "solid",
+                                "input_border_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "input_border_color": "rgba(56,56,56,0.45)",
+                                "section_button_style": "",
+                                "typography_line_height_tablet": {
+                                    "unit": "em",
+                                    "size": ""
+                                },
+                                "typography_line_height_mobile": {
+                                    "unit": "em",
+                                    "size": ""
+                                },
+                                "background_color": "#ffba36",
+                                "section_button_hover": "",
+                                "button_background_hover_color": "#ffa807",
+                                "hover_animation": "grow",
+                                "_section_style": "",
+                                "_padding": {
+                                    "unit": "em",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_section_background": "",
+                                "_box_shadow_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 10,
+                                    "spread": 0,
+                                    "inset": "",
+                                    "color": "rgba(0,0,0,0.5)"
+                                },
+                                "_section_responsive": "",
+                                "responsive_description": "",
+                                "section_custom_css_pro": "",
+                                "custom_css_pro": ""
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "optin",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "2d6fc722",
+            "settings": {
+                "content_position": "middle",
+                "background_background": "classic",
+                "background_color": "#262a43",
+                "shape_divider_top_height": {
+                    "unit": "px",
+                    "size": 15
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "4.5",
+                    "right": "0",
+                    "bottom": "4.5",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "1",
+                    "right": "2",
+                    "bottom": "1",
+                    "left": "2",
+                    "isLinked": false
+                },
+                "gap": "wide"
+            },
+            "elements": [
+                {
+                    "id": "734b0d96",
+                    "settings": {
+                        "_column_size": 100,
+                        "content_position": "center"
+                    },
+                    "elements": [
+                        {
+                            "id": "131cfd59",
+                            "settings": {
+                                "image": {
+                                    "url": "https://raw.githubusercontent.com/muizzahabibi/elementor-zahira/main/image/landingpress.landingkit.co/wp-content/uploads/2019/07/Section-031-Footer-Img-1.png",
+                                    "id": 5310
+                                },
+                                "title_text": "Loren Spears",
+                                "description_text": "Pemilik Baju Pria",
+                                "image_space": {
+                                    "unit": "px",
+                                    "size": 10
+                                },
+                                "image_size": {
+                                    "unit": "%",
+                                    "size": 14
+                                },
+                                "text_align": "center",
+                                "content_vertical_alignment": "middle",
+                                "title_bottom_space": {
+                                    "unit": "px",
+                                    "size": 10
+                                },
+                                "title_color": "#ffffff",
+                                "title_typography_typography": "custom",
+                                "title_typography_font_family": "Nunito Sans",
+                                "title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18
+                                },
+                                "title_typography_font_weight": "800",
+                                "title_typography_text_transform": "none",
+                                "title_typography_font_style": "normal",
+                                "title_typography_text_decoration": "none",
+                                "description_color": "rgba(255,255,255,0.68)",
+                                "description_typography_typography": "custom",
+                                "description_typography_font_family": "Nunito Sans",
+                                "description_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "description_typography_font_weight": "normal",
+                                "description_typography_text_transform": "none",
+                                "description_typography_font_style": "normal",
+                                "image_size_mobile": {
+                                    "unit": "%",
+                                    "size": 40
+                                },
+                                "title_size": "p",
+                                "_margin": {
+                                    "unit": "%",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "5",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-box",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "17e9e47e",
+                            "settings": {
+                                "social_icon_list": [
+                                    {
+                                        "social": "fa fa-facebook",
+                                        "_id": "4ecce21",
+                                        "link": {
+                                            "url": "",
+                                            "is_external": "true",
+                                            "nofollow": ""
+                                        },
+                                        "social_icon": {
+                                            "value": "fab fa-facebook-f",
+                                            "library": "fa-brands"
+                                        },
+                                        "item_icon_color": "default",
+                                        "item_icon_primary_color": "",
+                                        "item_icon_secondary_color": "",
+                                        "__fa4_migrated": {
+                                            "social_icon": true
+                                        }
+                                    },
+                                    {
+                                        "social": "fa fa-twitter",
+                                        "_id": "7ca69c5",
+                                        "link": {
+                                            "url": "",
+                                            "is_external": "true",
+                                            "nofollow": ""
+                                        },
+                                        "social_icon": {
+                                            "value": "fab fa-twitter",
+                                            "library": "fa-brands"
+                                        },
+                                        "item_icon_color": "default",
+                                        "item_icon_primary_color": "",
+                                        "item_icon_secondary_color": "",
+                                        "__fa4_migrated": {
+                                            "social_icon": true
+                                        }
+                                    },
+                                    {
+                                        "social": "fa fa-instagram",
+                                        "_id": "677fbca",
+                                        "link": {
+                                            "url": "",
+                                            "is_external": "true",
+                                            "nofollow": ""
+                                        },
+                                        "social_icon": {
+                                            "value": "fab fa-instagram",
+                                            "library": "fa-brands"
+                                        },
+                                        "item_icon_color": "default",
+                                        "item_icon_primary_color": "",
+                                        "item_icon_secondary_color": "",
+                                        "__fa4_migrated": {
+                                            "social_icon": true
+                                        }
+                                    }
+                                ],
+                                "shape": "circle",
+                                "icon_color": "custom",
+                                "icon_primary_color": "rgba(255,255,255,0)",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 20
+                                },
+                                "icon_size_tablet": {
+                                    "unit": "px",
+                                    "size": 15
+                                },
+                                "icon_spacing": {
+                                    "unit": "px",
+                                    "size": 15
+                                },
+                                "image_border_border": "solid",
+                                "image_border_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "image_border_color": "#ffffff",
+                                "hover_animation": "shrink",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "social-icons",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "46ea3ed8",
+                            "settings": {
+                                "color": "rgba(255,255,255,0.12)",
+                                "align": "center",
+                                "gap": {
+                                    "unit": "px",
+                                    "size": 35
+                                },
+                                "gap_mobile": {
+                                    "unit": "px",
+                                    "size": 2
+                                },
+                                "gap_tablet": {
+                                    "unit": "px",
+                                    "size": 10
+                                },
+                                "text": "Divider"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "49d6afb",
+                            "settings": {
+                                "title": "Disclaimer Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec sagittis dolor. Maecenas quam nunc, tincidunt quis facilisis ut, faucibus eget lacus. Duis in tellus dignissim augue faucibus facilisis. tincidunt quis facilisis ut, faucibus eget lacus. Duis in tellus dignissim augue faucibus facilisis.tincidunt quis facilisis ut, faucibus eget lacus. Duis in tellus dignissim augue faucibus facilisis.",
+                                "header_size": "p",
+                                "align": "center",
+                                "title_color": "rgba(255,255,255,0.68)",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Nunito Sans",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 12
+                                },
+                                "typography_font_weight": "normal",
+                                "typography_text_transform": "none",
+                                "typography_font_style": "normal",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 2
+                                },
+                                "_padding": {
+                                    "unit": "%",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "background_background": "classic",
+        "background_color": "#ffffff",
+        "template": "elementor_canvas"
+    }
+}

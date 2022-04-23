@@ -1,0 +1,581 @@
+{
+    "version": "0.4",
+    "title": "050 Ebook Lead Magnet",
+    "type": "page",
+    "content": [
+        {
+            "id": "2337aa5d",
+            "settings": {
+                "gap": "wide",
+                "content_position": "middle",
+                "structure": "20",
+                "background_background": "classic",
+                "background_color": "#353535",
+                "background_image": {
+                    "url": "https://raw.githubusercontent.com/muizzahabibi/elementor-zahira/main/image/landingpress.landingkit.co/wp-content/uploads/2019/07/Header-050-BG-Img.png",
+                    "id": 6884
+                },
+                "background_position": "center center",
+                "background_attachment": "fixed",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "padding": {
+                    "unit": "px",
+                    "top": "64",
+                    "right": "0",
+                    "bottom": "64",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "64",
+                    "right": "0",
+                    "bottom": "64",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "64",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "49726b95",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "content_position": "center",
+                        "html_tag": "div",
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "0",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "225f888c",
+                            "settings": {
+                                "title": "Dapatkan eBook Gratis",
+                                "align": "left",
+                                "align_mobile": "left",
+                                "title_color": "#ffffff",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Poppins",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 30
+                                },
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 24
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 18
+                                },
+                                "typography_font_weight": "bold",
+                                "typography_text_transform": "uppercase",
+                                "typography_font_style": "normal",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.5
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "153c0cf7",
+                            "settings": {
+                                "title": "Rahasia Sukses Copywriting",
+                                "header_size": "h1",
+                                "align": "left",
+                                "align_mobile": "left",
+                                "title_color": "#ffffff",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Poppins",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 55
+                                },
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 36
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 36
+                                },
+                                "typography_font_weight": "800",
+                                "typography_text_transform": "uppercase",
+                                "typography_font_style": "normal",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.5
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5eca54a1",
+                            "settings": {
+                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ultricies convallis nisi, ac mollis est rhoncus at. Quisque at semper mauris</p>",
+                                "align": "left",
+                                "align_mobile": "left",
+                                "text_color": "rgba(255,255,255,0.68)",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Nunito Sans",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "typography_font_weight": "normal",
+                                "typography_text_transform": "none",
+                                "typography_font_style": "normal",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 2
+                                },
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 16
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "68bc3c65",
+                            "settings": {
+                                "title": "Anda Akan Mendapatkan",
+                                "header_size": "span",
+                                "align_mobile": "left",
+                                "title_color": "#ffffff",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Poppins",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18
+                                },
+                                "typography_font_weight": "bold",
+                                "typography_text_transform": "capitalize",
+                                "typography_font_style": "normal",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.5
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5e6a41f9",
+                            "settings": {
+                                "icon_list": [
+                                    {
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                                        "icon": "fa fa-check",
+                                        "_id": "003be0b",
+                                        "link": {
+                                            "url": "",
+                                            "is_external": "",
+                                            "nofollow": ""
+                                        }
+                                    },
+                                    {
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                                        "icon": "fa fa-check",
+                                        "_id": "b41054d",
+                                        "link": {
+                                            "url": "",
+                                            "is_external": "",
+                                            "nofollow": ""
+                                        }
+                                    },
+                                    {
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                                        "icon": "fa fa-check",
+                                        "_id": "2aa54d6",
+                                        "link": {
+                                            "url": "",
+                                            "is_external": "",
+                                            "nofollow": ""
+                                        }
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 20
+                                },
+                                "icon_align": "left",
+                                "icon_color": "#f4d509",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 20
+                                },
+                                "text_indent": {
+                                    "unit": "px",
+                                    "size": 15
+                                },
+                                "text_color": "rgba(255,255,255,0.68)",
+                                "icon_typography_typography": "custom",
+                                "icon_typography_font_family": "Nunito Sans",
+                                "icon_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "icon_typography_font_weight": "normal",
+                                "icon_typography_text_transform": "none",
+                                "icon_typography_font_style": "normal",
+                                "icon_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.5
+                                },
+                                "icon_typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 16
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "66423312",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "content_position": "center",
+                        "html_tag": "div"
+                    },
+                    "elements": [
+                        {
+                            "id": "3fb663b8",
+                            "settings": {
+                                "image": {
+                                    "url": "https://raw.githubusercontent.com/muizzahabibi/elementor-zahira/main/image/landingpress.landingkit.co/wp-content/uploads/2019/07/material-ebook.png",
+                                    "id": 6885
+                                },
+                                "image_size": "full",
+                                "space_mobile": {
+                                    "unit": "%",
+                                    "size": 75
+                                },
+                                "fb_value": "0"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "59107f4c",
+            "settings": {
+                "gap": "wide",
+                "content_position": "middle",
+                "html_tag": "section",
+                "background_background": "classic",
+                "background_color": "#f4d509",
+                "padding": {
+                    "unit": "px",
+                    "top": "64",
+                    "right": "0",
+                    "bottom": "64",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "1e5c2b4f",
+                    "settings": {
+                        "_column_size": 100,
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "7acc8a49",
+                            "settings": {
+                                "title": "Cukup Anda Masukkan Nama Lengkap dan Email Aktif Anda dibawah ini :",
+                                "header_size": "p",
+                                "align": "center",
+                                "title_color": "#3d3d3d",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Nunito Sans",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "typography_font_weight": "normal",
+                                "typography_text_transform": "none",
+                                "typography_font_style": "normal",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.5
+                                },
+                                "_margin": {
+                                    "unit": "%",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3a1c6cb7",
+                            "settings": {
+                                "optin": "<form method='post' action=''>\n<div>\n<input type='text' id='email_address' name='email_address' value='' placeholder=\"Alamat email\">\n</div>\n<div>\n<input type='text' id='name' name='name' value='' placeholder=\"Nama Lengkap\">\n</div>\n<div>\n<input type='submit' value='Ya, Saya Mau Ebook'>\n</div>\n</form>\n",
+                                "optin_display": "inline",
+                                "button_width": "input",
+                                "input_typography_typography": "custom",
+                                "input_typography_font_family": "Nunito Sans",
+                                "input_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14
+                                },
+                                "input_typography_font_weight": "normal",
+                                "input_typography_text_transform": "none",
+                                "input_typography_font_style": "normal",
+                                "input_text_padding": {
+                                    "unit": "em",
+                                    "top": "1.5",
+                                    "right": "1.5",
+                                    "bottom": "1.5",
+                                    "left": "1.5",
+                                    "isLinked": true
+                                },
+                                "typography_typography": "custom",
+                                "typography_font_family": "Nunito Sans",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14
+                                },
+                                "typography_font_weight": "bold",
+                                "typography_text_transform": "uppercase",
+                                "typography_font_style": "normal",
+                                "typography_text_decoration": "none",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.5
+                                },
+                                "background_color": "#fa7684",
+                                "border_width": {
+                                    "unit": "px",
+                                    "top": "2",
+                                    "right": "2",
+                                    "bottom": "2",
+                                    "left": "2",
+                                    "isLinked": true
+                                },
+                                "border_color": "#fa7684",
+                                "text_padding": {
+                                    "unit": "em",
+                                    "top": "1.5",
+                                    "right": "1.5",
+                                    "bottom": "1.5",
+                                    "left": "1.5",
+                                    "isLinked": true
+                                },
+                                "hover_animation": "grow"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "optin",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "49927700",
+            "settings": {
+                "gap": "wide",
+                "content_position": "middle",
+                "structure": "40",
+                "padding": {
+                    "unit": "px",
+                    "top": "32",
+                    "right": "0",
+                    "bottom": "32",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "48f0dc0c",
+                    "settings": {
+                        "_column_size": 25,
+                        "_inline_size": null,
+                        "_inline_size_mobile": 50,
+                        "content_position": "center",
+                        "html_tag": "div"
+                    },
+                    "elements": [
+                        {
+                            "id": "2bd5a79",
+                            "settings": {
+                                "image": {
+                                    "url": "https://raw.githubusercontent.com/muizzahabibi/elementor-zahira/main/image/landingpress.landingkit.co/wp-content/uploads/2019/06/Header-Img-Company-4.png",
+                                    "id": 2574
+                                },
+                                "image_size": "full",
+                                "fb_value": "0"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "6ad6a80a",
+                    "settings": {
+                        "_column_size": 25,
+                        "_inline_size": null,
+                        "_inline_size_mobile": 50,
+                        "content_position": "center",
+                        "html_tag": "div"
+                    },
+                    "elements": [
+                        {
+                            "id": "d73846a",
+                            "settings": {
+                                "image": {
+                                    "url": "https://raw.githubusercontent.com/muizzahabibi/elementor-zahira/main/image/landingpress.landingkit.co/wp-content/uploads/2019/06/Header-Img-Company-3.png",
+                                    "id": 2573
+                                },
+                                "image_size": "full",
+                                "fb_value": "0"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "6889ae21",
+                    "settings": {
+                        "_column_size": 25,
+                        "_inline_size": null,
+                        "_inline_size_mobile": 50,
+                        "content_position": "center",
+                        "html_tag": "div"
+                    },
+                    "elements": [
+                        {
+                            "id": "6f955adf",
+                            "settings": {
+                                "image": {
+                                    "url": "https://raw.githubusercontent.com/muizzahabibi/elementor-zahira/main/image/landingpress.landingkit.co/wp-content/uploads/2019/06/Header-Img-Company-1.png",
+                                    "id": 2571
+                                },
+                                "image_size": "full",
+                                "fb_value": "0"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "40599227",
+                    "settings": {
+                        "_column_size": 25,
+                        "_inline_size": null,
+                        "_inline_size_mobile": 50,
+                        "content_position": "center",
+                        "html_tag": "div"
+                    },
+                    "elements": [
+                        {
+                            "id": "55743629",
+                            "settings": {
+                                "image": {
+                                    "url": "https://raw.githubusercontent.com/muizzahabibi/elementor-zahira/main/image/landingpress.landingkit.co/wp-content/uploads/2019/06/Header-Img-Company-4.png",
+                                    "id": 2574
+                                },
+                                "image_size": "full",
+                                "fb_value": "0"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "background_background": "classic",
+        "background_color": "#ffffff",
+        "template": "elementor_canvas"
+    }
+}

@@ -1,0 +1,655 @@
+{
+    "version": "0.4",
+    "title": "042 Thank You 2",
+    "type": "page",
+    "content": [
+        {
+            "id": "564613e5",
+            "settings": {
+                "gap": "wide",
+                "html_tag": "section",
+                "structure": "20",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https://raw.githubusercontent.com/muizzahabibi/elementor-zahira/main/image/landingpress.landingkit.co/wp-content/uploads/2019/07/Section-042-BG-Component.png",
+                    "id": 5970
+                },
+                "background_position": "center center",
+                "background_repeat": "no-repeat",
+                "background_size": "contain",
+                "padding": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "382f110b",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "content_position": "top",
+                        "background_background": "classic",
+                        "background_color": "#fafafa",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "25",
+                            "right": "25",
+                            "bottom": "25",
+                            "left": "25",
+                            "isLinked": true
+                        },
+                        "margin": {
+                            "unit": "%",
+                            "top": "10",
+                            "right": "10",
+                            "bottom": "10",
+                            "left": "10",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "3",
+                            "bottom": "2",
+                            "left": "3",
+                            "isLinked": false
+                        },
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "76f421d1",
+                            "settings": {
+                                "image": {
+                                    "url": "https://raw.githubusercontent.com/muizzahabibi/elementor-zahira/main/image/landingpress.landingkit.co/wp-content/uploads/2019/07/Section-042-Img-2.png",
+                                    "id": 5965
+                                },
+                                "image_size": "full",
+                                "align": "left",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "35",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "210ef2cc",
+                            "settings": {
+                                "title": "Terima Kasih",
+                                "header_size": "p",
+                                "align": "left",
+                                "title_color": "#2a2657",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Frank Ruhl Libre",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 50
+                                },
+                                "typography_font_weight": "bold",
+                                "typography_text_transform": "capitalize",
+                                "typography_font_style": "normal",
+                                "align_mobile": "center",
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 36
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6e1bc69b",
+                            "settings": {
+                                "title": "Pembayaran Sukses",
+                                "header_size": "p",
+                                "align": "left",
+                                "title_color": "#2a2657",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Nunito Sans",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 24
+                                },
+                                "typography_font_weight": "bold",
+                                "typography_text_transform": "none",
+                                "typography_font_style": "normal",
+                                "align_mobile": "center",
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 20
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4d617321",
+                            "settings": {
+                                "editor": "<p>Halo, Pesanan anda di website kami telah selesai dan segera dikirimkan ke Alamat anda. Jika barang belum sampai dalam 6 hari setelah pembayaran, anda boleh menanyakan resi atau silahkan cek resi anda di website kami . <strong>Khanara.com/cekresi</strong></p>",
+                                "align": "left",
+                                "text_color": "rgba(42,38,87,0.68)",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Nunito Sans",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 15
+                                },
+                                "typography_font_weight": "normal",
+                                "typography_text_transform": "none",
+                                "typography_font_style": "normal",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 2
+                                },
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "844d186",
+                            "settings": {
+                                "text": "Kembali ke Homepage",
+                                "align": "left",
+                                "size": "lg",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Nunito Sans",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "typography_font_weight": "bold",
+                                "typography_text_transform": "none",
+                                "typography_font_style": "normal",
+                                "typography_text_decoration": "none",
+                                "background_color": "#f0ac87",
+                                "hover_animation": "shrink",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "5",
+                                    "right": "5",
+                                    "bottom": "5",
+                                    "left": "5",
+                                    "isLinked": true
+                                },
+                                "align_mobile": "center",
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 14
+                                },
+                                "_margin_mobile": {
+                                    "unit": "%",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "10",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "403741e9",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "content_position": "bottom",
+                        "padding": {
+                            "unit": "em",
+                            "top": "0",
+                            "right": "1.5",
+                            "bottom": "0",
+                            "left": "1.5",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "1db88294",
+                            "settings": {
+                                "image": {
+                                    "url": "https://raw.githubusercontent.com/muizzahabibi/elementor-zahira/main/image/landingpress.landingkit.co/wp-content/uploads/2019/08/herohijab.png",
+                                    "id": 12229
+                                },
+                                "image_size": "full"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "5aa83382",
+            "settings": {
+                "content_position": "middle",
+                "html_tag": "section",
+                "structure": "50",
+                "background_background": "classic",
+                "background_color": "#4b426d",
+                "padding": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "0",
+                    "bottom": "5",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "gap": "wide",
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": "",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "7bf8b09e",
+                    "settings": {
+                        "_column_size": 20,
+                        "_inline_size": 39.85,
+                        "content_position": "center"
+                    },
+                    "elements": [
+                        {
+                            "id": "74476faa",
+                            "settings": {
+                                "title": "Khanara Telah<br>Dipercaya oleh 2801+<br>Konsumen di Indonesia",
+                                "header_size": "p",
+                                "align": "left",
+                                "title_color": "#ffffff",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Frank Ruhl Libre",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 30
+                                },
+                                "typography_font_weight": "bold",
+                                "typography_text_transform": "none",
+                                "typography_font_style": "normal",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.5
+                                },
+                                "align_mobile": "center",
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 24
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "1cadd0cb",
+                    "settings": {
+                        "_column_size": 20,
+                        "_inline_size": 15.042,
+                        "content_position": "center",
+                        "_inline_size_mobile": 50,
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "54e60d05",
+                            "settings": {
+                                "image": {
+                                    "url": "https://raw.githubusercontent.com/muizzahabibi/elementor-zahira/main/image/landingpress.landingkit.co/wp-content/uploads/2019/07/Section-042-Img-Trusted-1.png",
+                                    "id": 5966
+                                },
+                                "title_text": "Amelia Tan",
+                                "description_text": "Reseller Kairo",
+                                "title_size": "p",
+                                "image_size": {
+                                    "unit": "%",
+                                    "size": 100
+                                },
+                                "text_align": "center",
+                                "content_vertical_alignment": "middle",
+                                "title_bottom_space": {
+                                    "unit": "px",
+                                    "size": 5
+                                },
+                                "title_color": "#ffffff",
+                                "title_typography_typography": "custom",
+                                "title_typography_font_family": "Open Sans",
+                                "title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "title_typography_font_weight": "bold",
+                                "title_typography_text_transform": "none",
+                                "title_typography_font_style": "normal",
+                                "description_color": "rgba(255,255,255,0.68)",
+                                "description_typography_typography": "custom",
+                                "description_typography_font_family": "Open Sans",
+                                "description_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14
+                                },
+                                "description_typography_font_weight": "normal",
+                                "description_typography_text_transform": "none",
+                                "description_typography_font_style": "normal",
+                                "title_typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 16
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-box",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "3dc1ae4a",
+                    "settings": {
+                        "_column_size": 20,
+                        "_inline_size": 15.043,
+                        "content_position": "center",
+                        "_inline_size_mobile": 50,
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "303ff116",
+                            "settings": {
+                                "image": {
+                                    "url": "https://raw.githubusercontent.com/muizzahabibi/elementor-zahira/main/image/landingpress.landingkit.co/wp-content/uploads/2019/07/Section-042-Img-Trusted-2.png",
+                                    "id": 5967
+                                },
+                                "title_text": "Jessica Young",
+                                "description_text": "Fashionista",
+                                "title_size": "p",
+                                "image_size": {
+                                    "unit": "%",
+                                    "size": 100
+                                },
+                                "text_align": "center",
+                                "content_vertical_alignment": "middle",
+                                "title_bottom_space": {
+                                    "unit": "px",
+                                    "size": 5
+                                },
+                                "title_color": "#ffffff",
+                                "title_typography_typography": "custom",
+                                "title_typography_font_family": "Open Sans",
+                                "title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "title_typography_font_weight": "bold",
+                                "title_typography_text_transform": "none",
+                                "title_typography_font_style": "normal",
+                                "description_color": "rgba(255,255,255,0.68)",
+                                "description_typography_typography": "custom",
+                                "description_typography_font_family": "Open Sans",
+                                "description_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14
+                                },
+                                "description_typography_font_weight": "normal",
+                                "description_typography_text_transform": "none",
+                                "description_typography_font_style": "normal"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-box",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "34a1434f",
+                    "settings": {
+                        "_column_size": 20,
+                        "_inline_size": 15.042,
+                        "content_position": "center",
+                        "_inline_size_mobile": 50,
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "7e1c6dc4",
+                            "settings": {
+                                "image": {
+                                    "url": "https://raw.githubusercontent.com/muizzahabibi/elementor-zahira/main/image/landingpress.landingkit.co/wp-content/uploads/2019/07/Section-042-Img-Trusted-3.png",
+                                    "id": 5968
+                                },
+                                "title_text": "Anne Marrie",
+                                "description_text": "Influencer",
+                                "title_size": "p",
+                                "image_size": {
+                                    "unit": "%",
+                                    "size": 100
+                                },
+                                "text_align": "center",
+                                "content_vertical_alignment": "middle",
+                                "title_bottom_space": {
+                                    "unit": "px",
+                                    "size": 5
+                                },
+                                "title_color": "#ffffff",
+                                "title_typography_typography": "custom",
+                                "title_typography_font_family": "Open Sans",
+                                "title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "title_typography_font_weight": "bold",
+                                "title_typography_text_transform": "none",
+                                "title_typography_font_style": "normal",
+                                "description_color": "rgba(255,255,255,0.68)",
+                                "description_typography_typography": "custom",
+                                "description_typography_font_family": "Open Sans",
+                                "description_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14
+                                },
+                                "description_typography_font_weight": "normal",
+                                "description_typography_text_transform": "none",
+                                "description_typography_font_style": "normal"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-box",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "4440ee8b",
+                    "settings": {
+                        "_column_size": 20,
+                        "_inline_size": 15.023,
+                        "content_position": "center",
+                        "_inline_size_mobile": 50,
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "25063aa2",
+                            "settings": {
+                                "image": {
+                                    "url": "https://raw.githubusercontent.com/muizzahabibi/elementor-zahira/main/image/landingpress.landingkit.co/wp-content/uploads/2019/07/Section-042-Img-Trusted-4.png",
+                                    "id": 5969
+                                },
+                                "title_text": "Miss Christine",
+                                "description_text": "Reseller",
+                                "title_size": "p",
+                                "image_size": {
+                                    "unit": "%",
+                                    "size": 100
+                                },
+                                "text_align": "center",
+                                "content_vertical_alignment": "middle",
+                                "title_bottom_space": {
+                                    "unit": "px",
+                                    "size": 5
+                                },
+                                "title_color": "#ffffff",
+                                "title_typography_typography": "custom",
+                                "title_typography_font_family": "Open Sans",
+                                "title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "title_typography_font_weight": "bold",
+                                "title_typography_text_transform": "none",
+                                "title_typography_font_style": "normal",
+                                "description_color": "rgba(255,255,255,0.68)",
+                                "description_typography_typography": "custom",
+                                "description_typography_font_family": "Open Sans",
+                                "description_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14
+                                },
+                                "description_typography_font_weight": "normal",
+                                "description_typography_text_transform": "none",
+                                "description_typography_font_style": "normal"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-box",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "background_background": "classic",
+        "background_color": "#ffffff",
+        "template": "elementor_canvas"
+    }
+}
